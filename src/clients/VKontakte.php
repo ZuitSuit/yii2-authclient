@@ -59,7 +59,7 @@ class VKontakte extends OAuth2
      * @since 2.0.4
      */
     public $attributeNames = [
-        'uid',
+        'id',
         'first_name',
         'last_name',
         'nickname',
